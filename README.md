@@ -1,2 +1,2 @@
 # OCR-testing
-Testing OCR for reports
+Testing OCR for handwritten reports
